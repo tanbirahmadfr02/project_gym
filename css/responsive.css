@@ -974,7 +974,9 @@
     }
 
     .navbar-nav {
-        background: rgba(0, 255, 255, 0.347);
+        /*! background: rgba(0, 255, 255, 0.347); */
+        text-align: center;
+        background: #000000e8;
     }
 
     #main_menu ul li a::after {
@@ -986,7 +988,7 @@
     }
 
     #main_menu ul li {
-        margin-left: 50%;
+        /*! margin-left: 50%; */
     }
 
     #main_menu ul li a {

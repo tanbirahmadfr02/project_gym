@@ -1106,3 +1106,8 @@ img {
 }
 
 /* ==========footer part end ========= */
+
+#end ul > li{
+    color: red;
+}
+
